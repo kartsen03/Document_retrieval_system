@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+pinecone-client
+redis
+sentence-transformers
+scrapy
+pytest
+pytest-asyncio
+httpx
+aiohttp==3.7.4
+beautifulsoup4==4.9.3
+pydantic-settings==2.0.0
